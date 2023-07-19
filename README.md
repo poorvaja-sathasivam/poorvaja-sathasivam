@@ -14,7 +14,7 @@ Thank you for checking my Github. Here's everything about me and the things I ha
 ## Deep Learning 
 - 🎗 [Attendance-Registration](https://github.com/poorvaja-sathasivam/Attendance-Registration-Using-Deep-Learning)- Real-time attendance monitoring system using deep learning techniques developed at Univeristy as a part of my assignment. 
 
-## My Personal Blog 
+## My Personal Blog (working on currently)
 - 💡 [eunoia](https://github.com/poorvaja-sathasivam/eunoia) - A blog about ideas, perspectives and things I have learned along my journey of coding. 
 
 ## Lets Connect 
