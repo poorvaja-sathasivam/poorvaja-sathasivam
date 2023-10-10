@@ -1,11 +1,6 @@
 # 🌎 Welcome to my world! 🌎
 
 Thank you for checking my Github. Here's everything about me and the things I have been working on. 
-
-## Projects (coming soon)
-1. Software privacy protection system.
-2. CSV terminal file processor.
-3. Interpreter for APL language.
  
 ## Web Application 
 - 🎧 [Spotify-CLone](https://github.com/poorvaja-sathasivam/Spotify-Clone-React) - An attempt to make a clone of Spotify. 
